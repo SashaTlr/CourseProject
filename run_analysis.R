@@ -1,4 +1,4 @@
-Course_Proj <- function() {
+run_analysis <- function() {
 
     ## read in test files
     subject_test <- read.table("UCI HAR Dataset/test/subject_test.txt")
